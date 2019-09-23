@@ -1,0 +1,36 @@
+.logo{
+    color:#fff;
+}
+nav{
+    color:#fff;
+}
+.post{
+    width: 600px;
+    height:300px;
+    background-color: aqua;
+}
+.short{
+    width: 600px;
+    height:300px;
+    background-color: aqua;
+    position: relative;
+    left:200px;
+}
+.interview{
+    width: 600px;
+    height:300px;
+    background-color: aqua;
+}
+.search{
+    float:right;
+}
+*{
+    font-size: 20px;
+}
+span{
+    padding-right: 80px;
+}
+.checkbox {
+    padding-left: 50px;
+    padding-right: 50px;
+}

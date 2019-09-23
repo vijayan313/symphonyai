@@ -1,0 +1,143 @@
+[
+          
+    {
+        "company":"IT_Soft",
+        "title":"java",
+        "dop":"20-08-2013",
+        "status":"open",
+        "short_list":[
+                    {
+                        "name":"raju",
+                        "work_at":"PLMN INC",
+                        "exp":"6 yrs",
+                        "ctc":"10L",
+                        "interviews":[
+                            {
+                                "interview":"round1",
+                                "interviewer":"vijay",
+                                "date":"20-08-2013",
+                                "result":"selected"
+                            },
+                            {
+                                "interview":"round HR",
+                                "interviewer":"Ravi",
+                                "date":"20-08-2013",
+                                "result":"offer"
+                            }
+                        ]
+
+                    },
+                    {
+                        "name":"ranga",
+                        "work_at":"Infosys",
+                        "exp":"7 yrs",
+                        "ctc":"11L",
+                        "interviews":[
+                            {
+                                "interview":"round1",
+                                "interviewer":"shasthri",
+                                "date":"20-08-2013",
+                                "result":"selected"
+                            },
+                            {
+                                "interview":"round HR",
+                                "interviewer":"rani",
+                                "date":"20-08-2013",
+                                "result":"offer"
+                            }
+                        ]
+                    }
+                ]
+        
+    },
+    {
+        "company":"xyz",
+        "title":"dba",
+        "dop":"20-08-2012",
+        "status":"close",
+        "short_list":[
+                    {
+                        "name":"rani",
+                        "work_at":"PLMN INC",
+                        "exp":"7 yrs",
+                        "ctc":"9L",
+                        "interviews":[
+                            {
+                                "interview":"round1",
+                                "interviewer":"ravi",
+                                "date":"20-08-2013",
+                                "result":"rejected"
+                            }
+                        ]
+
+                    },
+                    {
+                        "name":"shasthri",
+                        "work_at":"wipro",
+                        "exp":"8 yrs",
+                        "ctc":"11L",
+                        "interviews":[
+                            {
+                                "interview":"round1",
+                                "interviewer":"ravi",
+                                "date":"20-08-2013",
+                                "result":"selected"
+                            },
+                            {
+                                "interview":"round HR",
+                                "interviewer":"Ravi",
+                                "date":"20-08-2013",
+                                "result":"offer"
+                            }
+                        ]
+                    }
+                ]
+     
+    },
+    {
+        "company":"it_xyz",
+        "title":"java",
+        "dop":"20-08-2015",
+        "status":"close",
+        "short_list":[
+                    {
+                        "name":"manju",
+                        "work_at":"PLMN INC",
+                        "exp":"6 yrs",
+                        "ctc":"10L",
+                        "interviews":[
+                            {
+                                "interview":"round1",
+                                "interviewer":"ranga",
+                                "date":"20-08-2015",
+                                "result":"Rejected"
+                            }
+                        ]
+
+                    },
+                    {
+                        "name":"manasa",
+                        "work_at":"Infosys",
+                        "exp":"7 yrs",
+                        "ctc":"11L",
+                        "interviews":[
+                            {
+                                "interview":"round1",
+                                "interviewer":"shasthri",
+                                "date":"20-08-2013",
+                                "result":"selected"
+                            },
+                            {
+                                "interview":"round HR",
+                                "interviewer":"bharath",
+                                "date":"20-08-2015",
+                                "result":"offer"
+                            }
+                        ]
+                    }
+                ]
+        
+    }
+        
+    
+]
